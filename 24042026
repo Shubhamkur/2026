@@ -1,1 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "हाल ही में अप्रैल 2026 में भारत का दौरा करने वाले दक्षिण कोरिया के राष्ट्रपति कौन हैं? (Who is the President of South Korea who visited India in April 2026?)",
+    "options": ["यून सुक-योल (Yoon Suk-yeol)", "ली जे म्युंग (Lee Jae Myung)", "मून जे-इन (Moon Jae-in)", "किम जोंग-उन (Kim Jong-un)"],
+    "answer": 1,
+    "short_notes": [
+      "राष्ट्रपति ली जे म्युंग ने 19 से 21 अप्रैल 2026 तक भारत का राजकीय दौरा किया। (President Lee Jae Myung visited India from 19-21 April 2026.)",
+      "यह पिछले 8 वर्षों में किसी दक्षिण कोरियाई राष्ट्रपति का पहला भारत दौरा था। (This was the first visit by a South Korean President in 8 years.)",
+      "उनके साथ फर्स्ट लेडी किम हे क्यंग और एक उच्च-स्तरीय प्रतिनिधिमंडल भी आया था। (Accompanied by First Lady Kim He-kyung and a high-level delegation.)"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "प्रधानमंत्री इंटर्नशिप योजना (PMIS) के तहत पात्रता का विस्तार कर किन छात्रों को शामिल किया गया है? (Eligibility under the PMIS has been expanded to include which students?)",
+    "options": ["केवल स्कूल छात्र (Only school students)", "केवल पीएचडी छात्र (Only PhD students)", "अंतिम वर्ष के स्नातक और स्नातकोत्तर छात्र (Final-year UG and PG students)", "केवल डिप्लोमा छात्र (Only diploma students)"],
+    "answer": 2,
+    "short_notes": [
+      "कॉर्पोरेट कार्य मंत्रालय ने शिक्षा मंत्रालय के परामर्श से पात्रता का विस्तार किया। (MCA expanded eligibility in consultation with the Ministry of Education.)",
+      "अब अंतिम वर्ष के स्नातक (UG) और स्नातकोत्तर (PG) छात्र भी इसमें शामिल होंगे। (Now final-year UG and PG students will also be included.)",
+      "उद्देश्य: अधिक छात्रों को उद्योग अनुभव और कौशल विकास प्रदान करना। (Aim: To provide more students with industry experience and skill development.)"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "संशोधित TDIP योजना के दिशा-निर्देश किस केंद्रीय मंत्री द्वारा जारी किए गए? (Who released the revised guidelines for the TDIP Scheme?)",
+    "options": ["अश्विनी वैष्णव (Ashwini Vaishnaw)", "ज्योतिरादित्य सिंधिया (Jyotiraditya Scindia)", "पीयूष गोयल (Piyush Goyal)", "अनुराग ठाकुर (Anurag Thakur)"],
+    "answer": 1,
+    "short_notes": [
+      "मंत्री ज्योतिरादित्य सिंधिया ने अप्रैल 2026 में नए दिशा-निर्देश जारी किए। (Minister Jyotiraditya Scindia released new guidelines in April 2026.)",
+      "बजट: 2026-31 की अवधि के लिए ₹203 करोड़ आवंटित किए गए हैं। (Budget: ₹203 crore allocated for the period 2026-31.)",
+      "फोकस: 5G एडवांस और 6G तकनीक में नवाचार को बढ़ावा देना। (Focus: Promoting innovation in 5G Advanced and 6G technologies.)"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "उत्तर प्रदेश के अलीगढ़ स्थित शेखा झील पक्षी अभयारण्य को किस दर्जे से मान्यता दी गई है? (Which status was recently designated to Shekha Jheel Bird Sanctuary in Aligarh, UP?)",
+    "options": ["यूनेस्को विश्व धरोहर स्थल (UNESCO World Heritage Site)", "बायोस्फीयर रिजर्व (Biosphere Reserve)", "रामसर स्थल (Ramsar Site)", "राष्ट्रीय उद्यान (National Park)"],
+    "answer": 2,
+    "short_notes": [
+      "अप्रैल 2026 में इसे 'रामसर स्थल' घोषित किया गया। (Designated as a 'Ramsar Site' in April 2026.)",
+      "यह अलीगढ़, यूपी में स्थित है और प्रवासी पक्षियों के लिए महत्वपूर्ण है। (Located in Aligarh, UP, it is vital for migratory birds.)",
+      "यह मान्यता अंतरराष्ट्रीय महत्व के आर्द्रभूमि संरक्षण को बढ़ावा देती है। (This promotes international-level wetland conservation.)"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "शेखा झील के जुड़ने के बाद भारत में कुल रामसर स्थलों की संख्या कितनी हो गई है? (What is the total number of Ramsar sites in India after Shekha Jheel?)",
+    "options": ["95", "97", "99", "101"],
+    "answer": 2,
+    "short_notes": [
+      "भारत में अब कुल रामसर स्थलों की संख्या 99 हो गई है। (The total number of Ramsar sites in India has reached 99.)",
+      "उत्तर प्रदेश 12 साइटों के साथ दूसरे स्थान पर है। (Uttar Pradesh is in second place with 12 sites.)",
+      "तमिलनाडु में सबसे अधिक 20 रामसर साइट्स हैं। (Tamil Nadu leads with the highest number of sites - 20.)"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "भारत का पहला अल्कलाइन बैटरी निर्माण संयंत्र किस स्थान पर स्थापित किया गया है? (Where has India's first alkaline battery manufacturing unit been commissioned?)",
+    "options": ["श्रीनगर (Srinagar)", "सांबा, जम्मू (Samba, Jammu)", "लेह (Leh)", "उधमपुर (Udhampur)"],
+    "answer": 1,
+    "short_notes": [
+      "एवरेडी इंडस्ट्रीज (EIIL) द्वारा सांबा जिले में स्थापित किया गया। (Established by Eveready Industries in Samba district.)",
+      "इसका उद्घाटन जम्मू-कश्मीर के उपराज्यपाल मनोज सिन्हा ने किया। (Inaugurated by J&K LG Manoj Sinha.)",
+      "यह देश की एकमात्र संचालित अल्कलाइन बैटरी निर्माण इकाई है। (It is the country's only operational alkaline battery unit.)"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "RBI के Centralised Payment System (CPS) में शामिल होने वाली पहली निजी क्षेत्र की फिनटेक कंपनी कौन है? (First private fintech firm to join RBI's CPS?)",
+    "options": ["पेटीएम (Paytm)", "रेजरपे (Razorpay)", "पे पॉइंट इंडिया (Pay Point India)", "फोनपे (PhonePe)"],
+    "answer": 2,
+    "short_notes": [
+      "पे पॉइंट इंडिया अप्रैल 2026 में CPS में शामिल होने वाली पहली निजी फिनटेक बनी। (Pay Point India became the first private fintech to join CPS in April 2026.)",
+      "इसे RTGS और NEFT तक सीधा एक्सेस और अपना IFSC कोड मिला है। (Gained direct access to RTGS/NEFT and its own IFSC code.)",
+      "अब कंपनी को पार्टनर बैंकों पर निर्भर रहने की आवश्यकता नहीं होगी। (The company will no longer need to depend on partner banks.)"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "आंध्र प्रदेश उच्च न्यायालय की पहली महिला मुख्य न्यायाधीश कौन बनी हैं? (Who is the first woman Chief Justice of Andhra Pradesh High Court?)",
+    "options": ["जस्टिस इंदु मल्होत्रा (Justice Indu Malhotra)", "जस्टिस लीसा गिल (Justice Lisa Gill)", "जस्टिस हिमा कोहली (Justice Hima Kohli)", "जस्टिस बी. वी. नागरत्ना (Justice B. V. Nagarathna)"],
+    "answer": 1,
+    "short_notes": [
+      "जस्टिस लीसा गिल को मुख्य न्यायाधीश नियुक्त किया गया है। (Justice Lisa Gill has been appointed as Chief Justice.)",
+      "उनका कार्यकाल 25 अप्रैल 2026 से प्रभावी हुआ। (Her term became effective from 25 April 2026.)",
+      "यह आंध्र प्रदेश उच्च न्यायालय के इतिहास में पहली महिला मुख्य न्यायाधीश हैं। (First woman Chief Justice in the history of AP High Court.)"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "UPSC अभ्यर्थियों के लिए CM-INSPIRE योजना किस राज्य द्वारा शुरू की गई है? (Which state launched CM-INSPIRE for UPSC aspirants?)",
+    "options": ["असम (Assam)", "मेघालय (Meghalaya)", "मणिपुर (Manipur)", "त्रिपुरा (Tripura)"],
+    "answer": 1,
+    "short_notes": [
+      "मेघालय के मुख्यमंत्री कॉनराड के. संगमा द्वारा लॉन्च किया गया। (Launched by Meghalaya CM Conrad K. Sangma.)",
+      "इसका उद्देश्य आर्थिक रूप से कमजोर छात्रों को प्रोत्साहन देना है। (Aim is to provide incentives to economically weaker students.)",
+      "यह योजना सिविल सेवा में राज्य की भागीदारी बढ़ाने में मदद करेगी। (Will help increase state representation in civil services.)"
+    ]
+  }
+]
 
